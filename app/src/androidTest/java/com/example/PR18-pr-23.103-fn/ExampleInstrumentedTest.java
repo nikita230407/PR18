@@ -1,4 +1,4 @@
-package com.example.pz18_belyaev_vadim_pr_23103;
+package com.example.PR18-pr-23.103-fn;
 
 import android.content.Context;
 
