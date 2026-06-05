@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pz18_belyaev_vadim_pr_23103"
+    namespace = "com.example.PR18-pr-23.103-fn"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.pz18_belyaev_vadim_pr_23103"
+        applicationId = "com.example.PR18-pr-23.103-fn"
         minSdk = 31
         targetSdk = 36
         versionCode = 1
